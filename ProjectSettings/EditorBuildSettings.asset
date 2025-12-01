@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/EZPZ Examples/Standalone Example Scenes/01 Item Cycling.unity
     guid: 7ecc1225d74d4454aad820312b981b7c
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Assessment_1/scene/_assessment 1.unity
     guid: a146d8ef9a1e04b4fa60deb6938e28ae
+  - enabled: 1
+    path: Assets/_Assessment_2/scene/_Assessment_2.unity
+    guid: 43a6120054fe7be428413e9cf8aaf26c
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
